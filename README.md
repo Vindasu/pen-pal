@@ -1,16 +1,17 @@
 #Thao
 
 "Always"
-# If ya ain't first yer last
 
-<<<<<<< HEAD
+
 ```python
 light_on = "Lumos"
 light_off = "Nox"
 ```
 
+```python
+if ice_cream = True:
+    return "Accio Ice Cream!!!"
+```
 
 #Alex
-=======
-#Alex
->>>>>>> refs/remotes/origin/main
+# If ya ain't first yer last
