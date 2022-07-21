@@ -2,15 +2,10 @@
 
 "Always"
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b6a84b569934de68c9e7d272e5c6450f89b06893
 ```python
 light_on = "Lumos"
 light_off = "Nox"
 ```
-<<<<<<< HEAD
 <!-- 
 .
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⣀⣠⣤⣴⣶⣶⣶⣶⣶⣤⣤⣀
@@ -63,13 +58,3 @@ light_off = "Nox"
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ -->
 
 #Alex
-=======
-
-```python
-if ice_cream = True:
-    return "Accio Ice Cream!!!"
-```
-
-#Alex
-# If ya ain't first yer last
->>>>>>> b6a84b569934de68c9e7d272e5c6450f89b06893
